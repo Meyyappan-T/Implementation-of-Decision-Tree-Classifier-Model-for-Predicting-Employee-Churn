@@ -1,4 +1,4 @@
-![image](https://github.com/Meyyappan-T/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128804366/b10dcae9-7328-43bd-8a91-8a0b3234c675)# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
