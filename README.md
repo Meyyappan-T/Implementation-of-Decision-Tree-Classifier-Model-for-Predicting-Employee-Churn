@@ -1,4 +1,4 @@
-# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+![image](https://github.com/Meyyappan-T/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128804366/b10dcae9-7328-43bd-8a91-8a0b3234c675)# Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
@@ -8,13 +8,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Load the Dataset
-2. Preprocess the Data
-3. Split the Data
-4. Build and Train the Model
-5.Evaluate the Model
-6.Predict New Data
-
+#### Step 1. Start
+#### Step 2. Load the Dataset and Preprocess the Data
+#### Step 3. Split the Data
+#### Step 4. Build and Train the Model
+#### Step 5.Evaluate the Model
+#### Step 6.Predict New Data
+#### Step 7.Stop
 ## Program:
 ```
 import pandas as pd
